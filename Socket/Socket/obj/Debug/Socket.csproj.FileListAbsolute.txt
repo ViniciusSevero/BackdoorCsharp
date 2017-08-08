@@ -1,0 +1,12 @@
+D:\Socket\Socket\bin\Debug\Socket.exe.config
+D:\Socket\Socket\bin\Debug\Socket.exe
+D:\Socket\Socket\bin\Debug\Socket.pdb
+D:\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+D:\Socket\Socket\obj\Debug\Socket.exe
+D:\Socket\Socket\obj\Debug\Socket.pdb
+D:\BackdoorCsharp\Socket\Socket\bin\Debug\Socket.exe.config
+D:\BackdoorCsharp\Socket\Socket\obj\Debug\Socket.exe
+D:\BackdoorCsharp\Socket\Socket\obj\Debug\Socket.pdb
+D:\BackdoorCsharp\Socket\Socket\bin\Debug\Socket.exe
+D:\BackdoorCsharp\Socket\Socket\bin\Debug\Socket.pdb
+D:\BackdoorCsharp\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\bin\Debug\CLienteeee.exe.config
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\bin\Debug\CLienteeee.exe
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\bin\Debug\CLienteeee.pdb
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\obj\Debug\CLienteeee.csprojResolveAssemblyReference.cache
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\obj\Debug\CLienteeee.Form1.resources
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\obj\Debug\CLienteeee.Properties.Resources.resources
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\obj\Debug\CLienteeee.csproj.GenerateResource.Cache
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\obj\Debug\CLienteeee.exe
+c:\users\logonrm\documents\visual studio 2015\Projects\CLienteeee\CLienteeee\obj\Debug\CLienteeee.pdb
+D:\BackdoorCsharp\CLienteeee\CLienteeee\bin\Debug\CLienteeee.exe.config
+D:\BackdoorCsharp\CLienteeee\CLienteeee\obj\Debug\CLienteeee.exe
+D:\BackdoorCsharp\CLienteeee\CLienteeee\obj\Debug\CLienteeee.pdb
+D:\BackdoorCsharp\CLienteeee\CLienteeee\bin\Debug\CLienteeee.exe
+D:\BackdoorCsharp\CLienteeee\CLienteeee\bin\Debug\CLienteeee.pdb
+D:\BackdoorCsharp\CLienteeee\CLienteeee\obj\Debug\CLienteeee.csprojResolveAssemblyReference.cache
+D:\BackdoorCsharp\CLienteeee\CLienteeee\obj\Debug\CLienteeee.Form1.resources
+D:\BackdoorCsharp\CLienteeee\CLienteeee\obj\Debug\CLienteeee.Properties.Resources.resources
+D:\BackdoorCsharp\CLienteeee\CLienteeee\obj\Debug\CLienteeee.csproj.GenerateResource.Cache
